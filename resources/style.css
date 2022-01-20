@@ -97,6 +97,7 @@ nav ul li a:hover, a.active{
     grid-template-columns: 1fr 1fr;
     gap: 10px;
 }
+
 .booking-content{
     color: #fff;
     width: 80%;
